@@ -1,4 +1,4 @@
-[![MasterHead](https://www.uakron.edu/statistics/images/data-science-banner.jpg?language_id=1)]
+![MasterHead](https://www.uakron.edu/statistics/images/data-science-banner.jpg?language_id=1)
 <h1 align="center">Hi 👋, I'm Dipesh Shrestha</h1>
 <h3 align="center">Aspiring Data Scientist and problem solver who loves to explore and learn</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zetahaxx&label=Profile%20views&color=0e75b6&style=flat" alt="zetahaxx" /> </p>
